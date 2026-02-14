@@ -19,9 +19,9 @@
 
 // ========== CONFIGURATION ==========
 const CONFIG = {
-  OPENROUTER_API_KEY: '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',
-  TELEGRAM_BOT_TOKEN: '8520816868:AAHBkj8Y_MUzXCZANMbFN4jB3jYz60Xusig',
-  TELEGRAM_CHAT_ID: '650140634',
+  OPENROUTER_API_KEY: 'ur api key',
+  TELEGRAM_BOT_TOKEN: 'ur telebot token',
+  TELEGRAM_CHAT_ID: 'g chat id',
   DAYS_TO_CHECK: 1,           
   SHEET_NAME: 'Applications',
   SEND_TELEGRAM: true,       
