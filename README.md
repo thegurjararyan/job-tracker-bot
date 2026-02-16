@@ -8,6 +8,9 @@ No subscriptions.
 No manual tracking.
 Just pure automation.
 
+<img width="537" height="267" alt="image" src="https://github.com/user-attachments/assets/06f66e55-cb9c-402b-a7e4-1fbd4afe8b7a" />
+<img width="546" height="183" alt="image" src="https://github.com/user-attachments/assets/aa8cf0a2-824f-428a-bf0d-3d9fa6a4598d" />
+
 ✨ Features
 
 📧 Reads incoming Gmail emails automatically
